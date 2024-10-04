@@ -1,5 +1,10 @@
 <h1>Hi! I'm FrankV22 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
+[![](https://visitcount.itsvg.in/api?id=itsfrankv22&icon=5&color=8)](https://visitcount.itsvg.in)
+
+![](https://github-readme-stats.vercel.app/api?username=itsfrankv22&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+
 ### About Me:
 - Server Terraria Maker...
 - TLW  -  TerraLatamWorld
@@ -22,6 +27,4 @@
 <a href="https://discord.com/invite/qdBSvagzPz"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/@FrankV22"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsfrankv22&show_icons=true&locale=en&layout=compact" alt="itsfrankv22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsfrankv22&show_icons=true&locale=en" alt="itsfrankv22" /></p>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
