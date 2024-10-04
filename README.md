@@ -11,6 +11,8 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 
+### Contact Me
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](discord.com/invite/qdBSvagzPz)
 <a href="https://[www.youtube.com/channel/UCUORUOKKg8Ezj4tBJb_cRUQ](https://www.youtube.com/@FrankV22)"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-FrankV22-blue?style=flat-square&logo=youtube"></a>
 
 
