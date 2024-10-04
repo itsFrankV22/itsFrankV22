@@ -10,3 +10,5 @@
 
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=itsFrankV22&show_icons=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsFrankV22=Profile%20views&color=0e75b6&style=flat" alt="itsFrankV22" /> </p>
