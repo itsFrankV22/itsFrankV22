@@ -13,7 +13,7 @@
 
 ### Contact Me
 <a href="https://discord.com/invite/qdBSvagzPz"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
-<a href="https://www.youtube.com/@FrankV22"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-FrankV22-blue?style=flat-square&logo=youtube"></a>
+<a href="https://www.youtube.com/@FrankV22"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=itsFrankV22&show_icons=true)
