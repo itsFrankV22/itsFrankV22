@@ -6,9 +6,11 @@
 
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-### Technologies
+### Technologies - Tools
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![GOG.com](https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 
 ### Contact Me
