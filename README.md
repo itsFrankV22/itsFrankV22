@@ -1,3 +1,5 @@
+<div align = "center">
+
 <h1>Hi! I'm FrankV22 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
 [![](https://visitcount.itsvg.in/api?id=itsfrankv22&icon=5&color=8)](https://visitcount.itsvg.in)
@@ -6,10 +8,10 @@
 
 
 ### About Me:
-- Server Terraria Maker...
-- TLW  -  TerraLatamWorld
-- Youtuber
-- Junior :)
+Server Terraria Maker...
+TLW  -  TerraLatamWorld
+Youtuber
+Junior :)
 
 ### OSystems
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
@@ -27,4 +29,6 @@
 <a href="https://discord.com/invite/qdBSvagzPz"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/@FrankV22"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) <p align="center">
+
+</div>
