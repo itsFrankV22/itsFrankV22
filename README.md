@@ -31,6 +31,4 @@ Youtuber Junior :)
 <a href="https://discord.com/invite/qdBSvagzPz"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/@FrankV22"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) <p align="center">
-
 </div>
