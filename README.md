@@ -11,9 +11,10 @@
 Server Terraria Maker...
 
 TLW  -  TerraLatamWorld
+IP: `terralatamwordl.sytes.net`
+Port: `8561`
 
-Youtuber Junior :)
-
+Staff at - DC/MCST.io
 
 ### ---OSystems---
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
