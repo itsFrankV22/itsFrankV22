@@ -34,16 +34,27 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)](#)
 
-## 🎮 Development Platforms
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="16" height="16"> Development Platforms <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="16" height="16">
 
 <a href="https://www.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 [![TShock](https://img.shields.io/badge/TShock-0096C7?logo=terraria&logoColor=white)](#)
 
-## 🌐 Contact Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fb/512.gif" alt="✍" width="32" height="32"> Contact Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.gif" alt="🕊" width="32" height="32">
+
 
 <a href="https://wa.me/5358408982"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white"></a>
 <a href="https://discord.com/invite/qdBSvagzPz"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/@FrankV22"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+<a href="https://x.com/Francis48663188"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
+<a href="https://www.instagram.com/frankv22_oficial"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+
+<a href="https://www.deviantart.com/TU_USUARIO"><img alt="DeviantArt" src="https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=white"></a>
+<a href="https://www.patreon.com/TU_USUARIO"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-FF424D?logo=patreon&logoColor=white"></a>
+<a href="https://open.spotify.com/user/TU_USUARIO"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white"></a>
+<a href="https://www.twitch.tv/TU_USUARIO"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/TU_USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+<a href="https://www.reddit.com/user/TU_USUARIO"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
+
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="14" height="14"> **Thanks for visiting!** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="14" height="14">
 
