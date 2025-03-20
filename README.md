@@ -3,6 +3,8 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi! I'm FrankV22 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30">
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="30" height="28"> About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 
+---
+
 👨‍💻 **Server Terraria & Minecraft & Rust & ARK etc... Maker**  
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="12" height="12"> **Founder of TLW - TerraLatamWorld**  
@@ -16,6 +18,8 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="12" height="12"> **Founder of MineLatamWorld**    
 🔗 **IP:** `minelatamworld.sytes.net`
 🔗 **Port:** `8125`
+
+---
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="12" height="12"> **Learning:**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -37,7 +41,11 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="16" height="16"> Development Platforms <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="16" height="16">
 
 <a href="https://www.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-[![TShock](https://img.shields.io/badge/TShock-0096C7?logo=terraria&logoColor=white)](#)
+<a href="https://github.com/Pryaxis/TShock"><img alt="TShock" src="https://img.shields.io/badge/TShock-2E77A2?logo=terraria&logoColor=white"></a>
+<a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"></a>
+<a href="https://scratch.mit.edu/users/TU_USUARIO/"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=white"></a>
+<a href="https://discord.com/developers/applications"><img alt="Discord Bots" src="https://img.shields.io/badge/Discord Bots-5865F2?logo=discord&logoColor=white"></a>
+
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fb/512.gif" alt="✍" width="32" height="32"> Contact Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.gif" alt="🕊" width="32" height="32">
 
@@ -59,3 +67,10 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="14" height="14"> **Thanks for visiting!** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="14" height="14">
 
 </div>
+
+> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="16" height="16"> "El código limpio es como el humor: si tienes que explicarlo, no es bueno."
+
+<div align="right">
+  <h3>FrankV22</h3>
+</div>
+
