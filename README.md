@@ -1,7 +1,7 @@
 <div align="center">
 
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi! I'm FrankV22 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="30" height="30">
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="30" height="28"> About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="30" height="28"> About Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 
 👨‍💻 **Server Terraria & Minecraft & Rust & ARK etc... Maker**  
 
@@ -10,8 +10,12 @@
 🔗 **Port:** `7777`
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="12" height="12"> **Founder of MultiLatino** (beta)    
-🔗 **IP:** `terralatamwordl.sytes.net` or `minelatino.sytes.net`  
+🔗 **IP:** `terralatamwordl.sytes.net` or `multilatino.sytes.net`  
 🔗 **Port:** `8118`
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="12" height="12"> **Founder of MultiLatino** (beta)    
+🔗 **IP:** `minelatamworld.sytes.net`
+🔗 **Port:** `8125`
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="12" height="12"> **Learning:**
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
