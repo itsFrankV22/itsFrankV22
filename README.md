@@ -5,7 +5,7 @@
 
 ---
 
-👨‍💻 **Server Terraria & Minecraft & Rust & ARK etc... Maker**  
+👨‍💻 **Server Maker: Terraria & Minecraft & Rust & ARK etc...**  
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="12" height="12"> **Founder of TLW - TerraLatamWorld**  
 🔗 **IP:** `terralatamwordl.sytes.net`  
