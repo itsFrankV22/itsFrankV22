@@ -13,7 +13,7 @@
 🔗 **IP:** `terralatamwordl.sytes.net` or `multilatino.sytes.net`  
 🔗 **Port:** `8118`
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="12" height="12"> **Founder of MultiLatino** (beta)    
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30e/512.gif" alt="🌎" width="12" height="12"> **Founder of MineLatamWorld**    
 🔗 **IP:** `minelatamworld.sytes.net`
 🔗 **Port:** `8125`
 
