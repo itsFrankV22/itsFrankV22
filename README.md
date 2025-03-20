@@ -56,12 +56,12 @@
 <a href="https://x.com/Francis48663188"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
 <a href="https://www.instagram.com/frankv22_oficial"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
 
-<a href="https://www.deviantart.com/TU_USUARIO"><img alt="DeviantArt" src="https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=white"></a>
+<a href="https://www.deviantart.com/frankv22"><img alt="DeviantArt" src="https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=white"></a>
 <a href="https://www.patreon.com/TU_USUARIO"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-FF424D?logo=patreon&logoColor=white"></a>
-<a href="https://open.spotify.com/user/TU_USUARIO"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white"></a>
-<a href="https://www.twitch.tv/TU_USUARIO"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
-<a href="https://www.reddit.com/user/TU_USUARIO"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
+<a href="https://open.spotify.com/user/FrankV22"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white"></a>
+<a href="https://www.twitch.tv/theFrankV22"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/francisco-vega-049958357"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+<a href="https://www.reddit.com/user/FrankV22MVS"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
 
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="14" height="14"> **Thanks for visiting!** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="14" height="14">
