@@ -54,7 +54,7 @@
 <a href="https://discord.com/invite/qdBSvagzPz"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"></a>
 <a href="https://www.youtube.com/@FrankV22"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 <a href="https://x.com/Francis48663188"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
-<a href="https://www.instagram.com/frankv22_oficial"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/soyfrankv22"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
 
 <a href="https://www.deviantart.com/frankv22"><img alt="DeviantArt" src="https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=white"></a>
 <a href="https://www.patreon.com/TU_USUARIO"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-FF424D?logo=patreon&logoColor=white"></a>
