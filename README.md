@@ -22,6 +22,7 @@
 ---
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="12" height="12"> **Learning:**
+
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#)
@@ -31,6 +32,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="12" height="12"> **Advanced:**
+
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
@@ -40,12 +42,22 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="16" height="16"> Development Platforms <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="16" height="16">
 
-<a href="https://www.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-<a href="https://github.com/Pryaxis/TShock"><img alt="TShock" src="https://img.shields.io/badge/TShock-2E77A2?logo=terraria&logoColor=white"></a>
+**IDE & SERVICE:**
+
+<a href="https://www.android.com/"><img alt="Android" src="https://img.shields.io/badge/AndroidAPP-3DDC84?logo=android&logoColor=white"></a>
 <a href="https://unity.com/"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white"></a>
 <a href="https://scratch.mit.edu/users/TU_USUARIO/"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=white"></a>
 <a href="https://discord.com/developers/applications"><img alt="Discord Bots" src="https://img.shields.io/badge/Discord Bots-5865F2?logo=discord&logoColor=white"></a>
 
+**GAME & TOOL:**
+
+<a href="https://github.com/Pryaxis/TShock"><img alt="TShock" src="https://img.shields.io/badge/TShock-2E77A2?logo=terraria&logoColor=white"></a>
+<a href="https://terraria.org/"><img alt="Terraria" src="https://img.shields.io/badge/Terraria-4E97D8?logo=terraria&logoColor=white"></a>
+<a href="https://www.tmodloader.net/"><img alt="tModLoader" src="https://img.shields.io/badge/tModLoader-1E90FF?logo=terraria&logoColor=white"></a>
+<a href="https://www.minecraft.net/en-us/store/minecraft-pocket-edition"><img alt="Minecraft: Pocket Edition" src="https://img.shields.io/badge/P%20-MC-FFAC34?logo=minecraft&logoColor=white"></a>
+<a href="https://www.spigotmc.org/"><img alt="Minecraft: Spigot" src="https://img.shields.io/badge/MC:%20Spigot-008000?logo=minecraft&logoColor=white"></a>
+<a href="https://ark.wiki.gg/"><img alt="ARK: Survival Evolved" src="https://img.shields.io/badge/ARK:%20Survival%20Evolved-1C478B?logo=ark-survival-evolved&logoColor=white"></a>
+<a href="https://www.klei.com/games/dont-starve"><img alt="Don't Starve" src="https://img.shields.io/badge/Don't%20Starve-808080?logo=don't-starve&logoColor=white"></a>
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_1f3fb/512.gif" alt="✍" width="32" height="32"> Contact Me <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f54a_fe0f/512.gif" alt="🕊" width="32" height="32">
 
