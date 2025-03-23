@@ -82,6 +82,6 @@
 > <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="16" height="16"> "El código limpio es como el humor: si tienes que explicarlo, no es bueno."
 
 <div align="right">
-  <h3> ![FrankV22-23-3-2025](https://github.com/user-attachments/assets/044393b6-401b-40ea-8851-f79d98a340d6) </h3>
+ ![FrankV22-23-3-2025](https://github.com/user-attachments/assets/044393b6-401b-40ea-8851-f79d98a340d6)
 </div>
 
