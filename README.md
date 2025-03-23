@@ -83,6 +83,6 @@
 
 ![FrankV22-23-3-2025](https://github.com/user-attachments/assets/5fd62a0c-d0bf-44df-bdd9-464a3bc9633c)
 
-<div align="right">
+<div style="position: absolute; bottom: 0; right: 0; width: 50px;">
+  <img src="https://github.com/user-attachments/assets/5fd62a0c-d0bf-44df-bdd9-464a3bc9633c" alt="FrankV22-23-3-2025" style="width: 100%;">
 </div>
-
