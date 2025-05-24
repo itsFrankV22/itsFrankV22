@@ -76,6 +76,8 @@
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="14" height="14"> **Thanks for visiting!** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="14" height="14">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsFrankV22&layout=compact&theme=dark)
+
 </div>
 
-> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="16" height="16"> "El código limpio es como el humor: si tienes que explicarlo, no es bueno."
+> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="16" height="16"> "Dios programo el ADN"
