@@ -77,8 +77,10 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🪩" width="14" height="14"> **Thanks for visiting!** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="14" height="14">
 
 ![itsFrankV22's Stats](https://github-readme-stats.vercel.app/api?username=itsFrankV22&theme=nightowl&show_icons=true&hide_border=false&count_private=true) 
-![itsFrankV22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsFrankV22&theme=nightowl&hide_border=false)
-![itsFrankV22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsFrankV22&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+
+![itsFrankV22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsFrankV22&theme=nightowl&hide_border=false) 
+
+![itsFrankV22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsFrankV22&theme=nightowl&show_icons=true&hide_border=false&layout=compact) 
 
 
 </div>
